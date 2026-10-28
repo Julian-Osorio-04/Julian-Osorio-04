@@ -1,6 +1,6 @@
 ## Hi there :wolf: 👋 :wolf:
 
-- :computer: **Ingeniero de Software en Microsoft**
+- :computer: **Desarrollador de Software en proceso**
 - :motorcycle: **Fan de las motos**
 - :strawberry: **Amante de las fresas con crema** 
 - :wolf: **Apasionado por los animales**
